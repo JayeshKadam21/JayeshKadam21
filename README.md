@@ -2,9 +2,9 @@
 
 # Jayesh Kadam
 
-### Software Developer | AI & Machine Learning Enthusiast
+### AI & Machine Learning 
 
-Building practical software, exploring intelligent systems, and learning by creating.
+Building practical exploring intelligent systems, and learning by creating.
 
 <p>
   <a href="https://github.com/JayeshKadam21?tab=repositories">Projects</a>
@@ -20,7 +20,7 @@ Building practical software, exploring intelligent systems, and learning by crea
 
 ## About Me
 
-- 🎓 B.Tech student interested in software development, AI, and machine learning.
+- 🎓 B.Tech student interested in software  AI, and machine learning.
 - 💻 Learning by building projects and exploring new technologies.
 - 🧠 Focused on improving problem-solving, programming, and development skills.
 - 🌱 Always learning, experimenting, and looking for opportunities to grow.
