@@ -20,7 +20,7 @@ Building practical exploring intelligent systems, and learning by creating.
 
 ## About Me
 
-- 🎓 B.Tech student interested in software  AI, and machine learning.
+- 🎓 B.Tech student interested in AI, and machine learning.
 - 💻 Learning by building projects and exploring new technologies.
 - 🧠 Focused on improving problem-solving, programming, and development skills.
 - 🌱 Always learning, experimenting, and looking for opportunities to grow.
